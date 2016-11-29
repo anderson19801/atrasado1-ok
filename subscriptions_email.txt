@@ -1,0 +1,8 @@
+ola tudo bem?
+estes foram os dados que vc enviou ao Eventex.
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone}}
+entraremos em contato em ate 48h.
+atenciosamente Moena
